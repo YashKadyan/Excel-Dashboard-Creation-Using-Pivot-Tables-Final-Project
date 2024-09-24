@@ -212,3 +212,88 @@ With its flexible design and powerful analytical capabilities, the dashboard is 
 
 # PROJECT SCREENSHOTS
 
+![List of Dashboards from 1 to 6 and Compiled Data Sheet]()
+
+![List of Dashboards from 7 to 9 and Compiled Data Sheet]()
+
+![List of Dashboards from 9 to Not Possible to Plot and Compiled Data Sheet]()
+
+![Dashboard 1 for S10-Project]()
+
+![Dashboard 1 for S10-Project for the year 1996]()
+
+![Dashboard 1 for S10-Project for the year 1997]()
+
+![Dashboard 1 for S10-Project for the year 1998]()
+
+![Dashboard 2 for S10-Project]()
+
+![Dashboard 2 for S10-Project for the year 1996]()
+
+![Dashboard 2 for S10-Project for the year 1997]()
+
+![Dashboard 2 for S10-Project for the year 1998]()
+
+![Dashboard 3 for S10-Project - 1]()
+
+![Dashboard 3 for S10-Project - 2]()
+
+![Dashboard 3 for S10-Project for the year 1996]()
+
+![Dashboard 3 for S10-Project for the year 1997]()
+
+![Dashboard 3 for S10-Project for the year 1998]()
+
+![Dashboard 4 for S10-Project - 1]()
+
+![Dashboard 4 for S10-Project - 2]()
+
+![Dashboard 4 for S10-Project for the year 1996]()
+
+![Dashboard 4 for S10-Project for the year 1997]()
+
+![Dashboard 4 for S10-Project for the year 1998]()
+
+![Dashboard 5 for S10-Project - 1]()
+
+![Dashboard 5 for S10-Project - 2]()
+
+![Dashboard 5 for S10-Project for the year 1996]()
+
+![Dashboard 5 for S10-Project for the year 1997]()
+
+![Dashboard 5 for S10-Project for the year 1998]()
+
+![Dashboard 6 for S10-Project]()
+
+![Dashboard 6 for S10-Project for the year 1996]()
+
+![Dashboard 6 for S10-Project for the year 1997]()
+
+![Dashboard 6 for S10-Project for the year 1998]()
+
+![Dashboard 7 for S10-Project]()
+
+![Dashboard 7 for S10-Project for the year 1996]()
+
+![Dashboard 7 for S10-Project for the year 1997]()
+
+![Dashboard 7 for S10-Project for the year 1998]()
+
+![Dashboard 8 for S10-Project - 1]()
+
+![Dashboard 8 for S10-Project - 2]()
+
+![Dashboard 8 for S10-Project for the year 1996]()
+
+![Dashboard 8 for S10-Project for the year 1997]()
+
+![Dashboard 8 for S10-Project for the year 1998]()
+
+![Dashboard 9 for S10-Project]()
+
+![Dashboard 9 for S10-Project for the year 1996]()
+
+![Dashboard 9 for S10-Project for the year 1997]()
+
+![Dashboard 9 for S10-Project for the year 1998]()
