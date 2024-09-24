@@ -212,88 +212,88 @@ With its flexible design and powerful analytical capabilities, the dashboard is 
 
 # PROJECT SCREENSHOTS
 
-![List of Dashboards from 1 to 6 and Compiled Data Sheet]()
+![List of Dashboards from 1 to 6 and Compiled Data Sheet](https://github.com/user-attachments/assets/cdd39de4-757e-4466-b752-4b4f1bb3dc0b)
 
-![List of Dashboards from 7 to 9 and Compiled Data Sheet]()
+![List of Dashboards from 7 to 9 and Compiled Data Sheet](https://github.com/user-attachments/assets/a34fa3b2-934f-49b2-bb2f-3a6f7dfd8426)
 
-![List of Dashboards from 9 to Not Possible to Plot and Compiled Data Sheet]()
+![List of Dashboards from 9 to Not Possible to Plot and Compiled Data Sheet](https://github.com/user-attachments/assets/548166f5-f4f3-41b1-b8fb-cc3dbde1dbfc)
 
-![Dashboard 1 for S10-Project]()
+![Dashboard 1 for S10-Project](https://github.com/user-attachments/assets/2908fdb7-e0dc-41d6-a945-71d4e78c9dfa)
 
-![Dashboard 1 for S10-Project for the year 1996]()
+![Dashboard 1 for S10-Project for the year 1996](https://github.com/user-attachments/assets/581dcc5c-6799-4e03-a2cc-e1e4c2d6c421)
 
-![Dashboard 1 for S10-Project for the year 1997]()
+![Dashboard 1 for S10-Project for the year 1997](https://github.com/user-attachments/assets/229786e8-680d-4452-85f5-39e80b9f2803)
 
-![Dashboard 1 for S10-Project for the year 1998]()
+![Dashboard 1 for S10-Project for the year 1998](https://github.com/user-attachments/assets/0c73e66a-3e22-4c7c-9a7f-227802036bbc)
 
-![Dashboard 2 for S10-Project]()
+![Dashboard 2 for S10-Project](https://github.com/user-attachments/assets/3d140481-7d02-4ebb-ad04-869127458b27)
 
-![Dashboard 2 for S10-Project for the year 1996]()
+![Dashboard 2 for S10-Project for the year 1996](https://github.com/user-attachments/assets/e7e4c50c-9640-49e1-8cda-244d1316f143)
 
-![Dashboard 2 for S10-Project for the year 1997]()
+![Dashboard 2 for S10-Project for the year 1997](https://github.com/user-attachments/assets/32732bbc-459b-4dd0-b59d-3a41d1dfafc2)
 
-![Dashboard 2 for S10-Project for the year 1998]()
+![Dashboard 2 for S10-Project for the year 1998](https://github.com/user-attachments/assets/b5c69c22-71f1-4aac-9add-f32e20a47eff)
 
-![Dashboard 3 for S10-Project - 1]()
+![Dashboard 3 for S10-Project - 1](https://github.com/user-attachments/assets/af911950-784b-440c-ad25-d58597503b2c)
 
-![Dashboard 3 for S10-Project - 2]()
+![Dashboard 3 for S10-Project - 2](https://github.com/user-attachments/assets/7157a438-ad1e-4834-8bb6-1b71e93fecc0)
 
-![Dashboard 3 for S10-Project for the year 1996]()
+![Dashboard 3 for S10-Project for the year 1996](https://github.com/user-attachments/assets/81fc1c80-e7a7-4e1b-ad17-9596c27120f8)
 
-![Dashboard 3 for S10-Project for the year 1997]()
+![Dashboard 3 for S10-Project for the year 1997](https://github.com/user-attachments/assets/f6792990-c61f-4823-999f-db522b0df5ad)
 
-![Dashboard 3 for S10-Project for the year 1998]()
+![Dashboard 3 for S10-Project for the year 1998](https://github.com/user-attachments/assets/15bbeb95-5921-4d0e-8a3f-19265beb4660)
 
-![Dashboard 4 for S10-Project - 1]()
+![Dashboard 4 for S10-Project - 1](https://github.com/user-attachments/assets/03ffc0d3-2270-44b1-94ef-6f1158ce2523)
 
-![Dashboard 4 for S10-Project - 2]()
+![Dashboard 4 for S10-Project - 2](https://github.com/user-attachments/assets/1c2abdd2-c5c2-4298-ae6f-be210264e0b7)
 
-![Dashboard 4 for S10-Project for the year 1996]()
+![Dashboard 4 for S10-Project for the year 1996](https://github.com/user-attachments/assets/a0f4c78b-7f93-4190-9646-66bc3701aa78)
 
-![Dashboard 4 for S10-Project for the year 1997]()
+![Dashboard 4 for S10-Project for the year 1997](https://github.com/user-attachments/assets/6ac994b9-8249-4fd8-888b-f77e79f1cd8e)
 
-![Dashboard 4 for S10-Project for the year 1998]()
+![Dashboard 4 for S10-Project for the year 1998](https://github.com/user-attachments/assets/f4b2c0b6-ae8f-4ece-ab03-0745da47a115)
 
-![Dashboard 5 for S10-Project - 1]()
+![Dashboard 5 for S10-Project - 1](https://github.com/user-attachments/assets/df14e273-253c-4a3a-8b62-9cc5bf87b6dc)
 
-![Dashboard 5 for S10-Project - 2]()
+![Dashboard 5 for S10-Project - 2](https://github.com/user-attachments/assets/27a78d2b-1717-4191-86a1-0510a49db15b)
 
-![Dashboard 5 for S10-Project for the year 1996]()
+![Dashboard 5 for S10-Project for the year 1996](https://github.com/user-attachments/assets/099c6b3b-0c5b-4296-9ab8-823926b88b48)
 
-![Dashboard 5 for S10-Project for the year 1997]()
+![Dashboard 5 for S10-Project for the year 1997](https://github.com/user-attachments/assets/738b01f5-5755-4385-83ce-6621bb20925f)
 
-![Dashboard 5 for S10-Project for the year 1998]()
+![Dashboard 5 for S10-Project for the year 1998](https://github.com/user-attachments/assets/00ce88ea-9b18-4a4a-add6-cdbc013d0206)
 
-![Dashboard 6 for S10-Project]()
+![Dashboard 6 for S10-Project](https://github.com/user-attachments/assets/bb63e7ca-1ccf-4694-aa52-46f36797b151)
 
-![Dashboard 6 for S10-Project for the year 1996]()
+![Dashboard 6 for S10-Project for the year 1996](https://github.com/user-attachments/assets/fdeffa55-af5d-46d6-8889-07495bc216b3)
 
-![Dashboard 6 for S10-Project for the year 1997]()
+![Dashboard 6 for S10-Project for the year 1997](https://github.com/user-attachments/assets/debdabd4-27f2-4942-ae17-e2ed6862c3c4)
 
-![Dashboard 6 for S10-Project for the year 1998]()
+![Dashboard 6 for S10-Project for the year 1998](https://github.com/user-attachments/assets/ceb4c752-a30d-4506-ad69-03b326e5a9dc)
 
-![Dashboard 7 for S10-Project]()
+![Dashboard 7 for S10-Project](https://github.com/user-attachments/assets/ce1d1b84-bff4-4051-9206-de556ad4abef)
 
-![Dashboard 7 for S10-Project for the year 1996]()
+![Dashboard 7 for S10-Project for the year 1996](https://github.com/user-attachments/assets/c9befd74-2ca1-4410-946a-7e21bf28884f)
 
-![Dashboard 7 for S10-Project for the year 1997]()
+![Dashboard 7 for S10-Project for the year 1997](https://github.com/user-attachments/assets/5f6f1f76-1807-4666-aa73-05e2eb2bef0f)
 
-![Dashboard 7 for S10-Project for the year 1998]()
+![Dashboard 7 for S10-Project for the year 1998](https://github.com/user-attachments/assets/73a01f71-2201-44b9-98ee-1190e6683f4d)
 
-![Dashboard 8 for S10-Project - 1]()
+![Dashboard 8 for S10-Project - 1](https://github.com/user-attachments/assets/bbe4071a-980e-4b5e-932e-77bcd0e8c641)
 
-![Dashboard 8 for S10-Project - 2]()
+![Dashboard 8 for S10-Project - 2](https://github.com/user-attachments/assets/d0d23142-e06e-49d0-8b66-34abeaf60ce9)
 
-![Dashboard 8 for S10-Project for the year 1996]()
+![Dashboard 8 for S10-Project for the year 1996](https://github.com/user-attachments/assets/56221986-e01d-4232-a920-09415b3cf48f)
 
-![Dashboard 8 for S10-Project for the year 1997]()
+![Dashboard 8 for S10-Project for the year 1997](https://github.com/user-attachments/assets/2bd0a203-063a-45ec-9b87-4eb38784a733)
 
-![Dashboard 8 for S10-Project for the year 1998]()
+![Dashboard 8 for S10-Project for the year 1998](https://github.com/user-attachments/assets/fe6af18e-5ecc-47ed-a44c-52b5d3418c29)
 
-![Dashboard 9 for S10-Project]()
+![Dashboard 9 for S10-Project](https://github.com/user-attachments/assets/b36b33bb-e9d1-4ff4-8b00-da5c92192215)
 
-![Dashboard 9 for S10-Project for the year 1996]()
+![Dashboard 9 for S10-Project for the year 1996](https://github.com/user-attachments/assets/e49de3ee-1b5d-41cb-9c63-5e2bd932e2a6)
 
-![Dashboard 9 for S10-Project for the year 1997]()
+![Dashboard 9 for S10-Project for the year 1997](https://github.com/user-attachments/assets/fea966ef-bb90-4eb5-9c87-aaccdfd2dd6c)
 
-![Dashboard 9 for S10-Project for the year 1998]()
+![Dashboard 9 for S10-Project for the year 1998](https://github.com/user-attachments/assets/75008d47-d135-4585-b0eb-b55a35f8a6d5)
