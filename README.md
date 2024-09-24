@@ -23,11 +23,9 @@ This project demonstrates the power of Excel as a versatile tool for dashboard c
 • Create Pivot Tables to summarize and analyze data from the ‘Compiled Data’, ‘Employees’, ‘Categories’, ‘Customers’, ‘EmployeeTerritories’, ‘Order_Details’, ‘Orders’, ‘Products’, ‘Region’, ‘Shippers’, ‘Suppliers’ and ‘Territories’ sheets.
 
 
-
  **VLOOKUP & Data Cross-Referencing:**
 
 • Implement VLOOKUP formulas to link data across sheets. For example, cross-reference Order IDs in the ‘Order_Details’ sheet with Employees in the ‘Employees’ sheet to display the Employees Full Names.
-
 
 
  **Timeline Visualization:**
@@ -35,7 +33,6 @@ This project demonstrates the power of Excel as a versatile tool for dashboard c
 • Utilize the Timeline feature in Excel to create an interactive visual of the project’s analysis Year wise. This will help in tracking the project’s progress Year wise and identifying any delays in real-time.
 
 • Apply a filter within the timeline to highlight the project's progress for a particular Year based on the Year filter.
-
 
 
  **Dashboard Integration:**
@@ -75,13 +72,11 @@ Pivot Tables are used extensively in this project to summarize and analyze the r
 • Allows filtering by Employees to monitor individual workload and progress.
 
 
-
 **2. Category-wise Sales Pivot Table:**
 
 • Shows the distribution of Sum of Sales among Categories, indicating who has the lowest percentage among all the Categories.
 
 • Displays the Sum of Sales and their respective Categories, enabling quick identification of Categories with the Lowest Sum of Sales Percentage-wise.
-
 
 
 **3. Shipper Company-wise Freight Pivot Table:**
@@ -101,7 +96,6 @@ The VLOOKUP function is used to cross-reference data between different sheets, e
 • Uses VLOOKUP to pull detailed Employee information (e.g., EmployeeID,Employee FullName) from the "Employees" sheet into the main "Compiled Data" sheet.
 
 • Allows the dashboard to display contextual information for each Employee, such as the Employee's Sales Year-wise.
-
 
 
 **2. Sum of Sales Per Order ID:**
@@ -135,7 +129,6 @@ The dashboard integrates multiple elements like Pivot Tables, Charts, and Timeli
 • These charts update dynamically when filters are applied, providing real-time insights.
 
 
-
 **2. Filters:**
 
 • Dropdown filters offer additional flexibility in data selection, making the dashboard highly interactive and user-friendly.
@@ -149,7 +142,6 @@ The dashboard integrates multiple elements like Pivot Tables, Charts, and Timeli
 • The dashboard is designed to update automatically when new data is added to the "Compiled Data" sheet, using dynamic ranges and named ranges to ensure that Pivot Tables and Charts reflect the most current information.
 
 • This eliminates the need for manual updates, improving efficiency and reducing the risk of errors.
-
 
 
 **2. Interactive Elements:**
@@ -171,11 +163,9 @@ This project leverages advanced Excel functionalities to create an interactive, 
 • Hover over the bar or pie charts for detailed data points, such as the exact number of Sales for each Region.
 
 
-
 **B. Analyzing Sum of Sales:**
 
 • View the Pivot Table to get the Sum of Sales assigned to each Region, along with a visual representation in the accompanying chart.
-
 
 
 **C. Exploring Data with Timelines:**
@@ -185,13 +175,11 @@ This project leverages advanced Excel functionalities to create an interactive, 
 • Drag the Timeline slider to adjust the year range dynamically, and watch the Pivot Tables and charts update in real time.
 
 
-
 **D. Utilizing VLOOKUP for Detailed Information:**
 
 • VLOOKUP is used in various sheets to pull in additional data. For example, in the “Compiled Data” sheet, employee details are pulled from a separate sheet: “Employees” to provide context on who is responsible for each Sum of Sales.
 
 • To see a detailed Sum of Sales information for a specific Employee, hover over or click on the relevant Employee Full Name entry in the Pivot Table.
-
 
 
 **E. Updating the Dashboard:**
@@ -201,13 +189,11 @@ This project leverages advanced Excel functionalities to create an interactive, 
 • Use the “Refresh All” button in the Data tab or a custom macro button if provided, to update all data connections, ensuring the dashboard reflects the most current status of the project.
 
 
-
 **F. Exporting the Dashboard:**
 
 • To share the dashboard with stakeholders, export it as a PDF or print it directly from Excel.
 
 • Use the “File” menu to choose “Save As” and select PDF format, ensuring all visible sheets and charts are included in the export.
-
 
 
 This usage guide provides a step-by-step walkthrough of how to effectively interact with and gain insights from the Excel Dashboard created using Pivot Tables, Timeline, and VLOOKUP in the S10-Project.xlsx file.
