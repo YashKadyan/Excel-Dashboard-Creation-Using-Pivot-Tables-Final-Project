@@ -1,4 +1,4 @@
-## PROJECT:
+## EXCEL ANALYTICS PROJECT:
 Excel Dashboard Creation Using VLOOKUP, Pivot Tables and Timeline in MS-Excel.
 
 
@@ -52,7 +52,9 @@ The S10-Project.xlsx file is designed to create a comprehensive and interactive 
  **Sheet 1: Compiled Data**
 
 • Contains the primary dataset used for analysis. This sheet includes information such as Order IDs, Sales, Freight, Employee IDs and Customer IDs.
+
 • The data is organized in tabular form with each column representing a specific attribute, such as "OrderID", "OrderDate", "ShipVia", "Shipper CompanyName", "ProductID", etc.
+
 • This raw data serves as the source for creating Pivot Tables and performing VLOOKUP operations to derive calculated metrics.
 
 
@@ -64,19 +66,23 @@ Pivot Tables are used extensively in this project to summarize and analyze the r
 **1. Employee-wise Sales Analysis Pivot Table:**
 
 • Summarizes Employees by their Sum of Sales.				
+
 • Displays the Sum of Sales and their respective Employees, enabling quick identification of Employees with the Lowest Sum of Sales.
+
 • Allows filtering by Employees to monitor individual workload and progress.
 
 
 **2. Category-wise Sales Pivot Table:**
 
 • Shows the distribution of Sum of Sales among Categories, indicating who has the lowest percentage among all the Categories.
+
 • Displays the Sum of Sales and their respective Categories, enabling quick identification of Categories with the Lowest Sum of Sales Percentage-wise.
 
 
 **3. Shipper Company-wise Freight Pivot Table:**
 
 • Tracks the Freight of each Shipper Company.
+
 • Displays the Freight for each Shipper Company, helping the project managers assess progress.
 
 
@@ -88,12 +94,14 @@ The VLOOKUP function is used to cross-reference data between different sheets, e
 **1. Employee Sales Mapping:**
 
 • Uses VLOOKUP to pull detailed Employee information (e.g., EmployeeID,Employee FullName) from the "Employees" sheet into the main "Compiled Data" sheet.
+
 • Allows the dashboard to display contextual information for each Employee, such as the Employee's Sales Year-wise.
 
 
 **2. Sum of Sales Per Order ID:**
 	
 • VLOOKUP is used to fetch information about Sum of Sales that require immediate attention.
+
 • This helps in highlighting Sum of Sales for a particular year, thus prioritizing them in the dashboard.
 
 
@@ -105,6 +113,7 @@ Timelines are used to provide a visual representation of the project's schedule,
 **1. Timeline in Years:**
 
 • Displays the timeline in Years using a Gantt chart format.
+
 • The timeline is interactive, allowing users to filter by time period (e.g., yearly) to view Sum of Sales scheduled within a specific range. (i.e. Time Period in Years)
 
 
@@ -116,6 +125,7 @@ The dashboard integrates multiple elements like Pivot Tables, Charts, and Timeli
 **1. Interactive Charts:**
 
 • Bar charts and pie charts are used to visually represent data from the Pivot Tables, such as the distribution of Sum of Sales by Employees and Categories.
+
 • These charts update dynamically when filters are applied, providing real-time insights.
 
 
@@ -130,12 +140,14 @@ The dashboard integrates multiple elements like Pivot Tables, Charts, and Timeli
 **1. Dynamic Updates:**
 
 • The dashboard is designed to update automatically when new data is added to the "Compiled Data" sheet, using dynamic ranges and named ranges to ensure that Pivot Tables and Charts reflect the most current information.
+
 • This eliminates the need for manual updates, improving efficiency and reducing the risk of errors.
 
 
 **2. Interactive Elements:**
 
 • Users can interact with the dashboard through clickable elements like buttons and dropdowns, enabling a customized view of the data based on specific requirements.
+
 • Timelines and charts are linked to these interactive controls, providing an intuitive and engaging user experience.
 
 This project leverages advanced Excel functionalities to create an interactive, insightful and user-friendly dashboard that effectively communicates the Sum of Sales of the Project Year-wise.
@@ -147,6 +159,7 @@ This project leverages advanced Excel functionalities to create an interactive, 
 **A. Viewing Sales Summary:**
 
 • Navigate to the “Compiled Data” sheet to view a summary of all project tasks.
+
 • Hover over the bar or pie charts for detailed data points, such as the exact number of Sales for each Region.
 
 
@@ -158,24 +171,28 @@ This project leverages advanced Excel functionalities to create an interactive, 
 **C. Exploring Data with Timelines:**
 
 • Use the Timeline control to filter data by specific year ranges, such as viewing the sum of sales completed within the last year.
+
 • Drag the Timeline slider to adjust the year range dynamically, and watch the Pivot Tables and charts update in real time.
 
 
 **D. Utilizing VLOOKUP for Detailed Information:**
 
 • VLOOKUP is used in various sheets to pull in additional data. For example, in the “Compiled Data” sheet, employee details are pulled from a separate sheet: “Employees” to provide context on who is responsible for each Sum of Sales.
+
 • To see a detailed Sum of Sales information for a specific Employee, hover over or click on the relevant Employee Full Name entry in the Pivot Table.
 
 
 **E. Updating the Dashboard:**
 
 • When new data is added to the “Compiled Data” sheet, refresh all Pivot Tables to incorporate the latest information.
+
 • Use the “Refresh All” button in the Data tab or a custom macro button if provided, to update all data connections, ensuring the dashboard reflects the most current status of the project.
 
 
 **F. Exporting the Dashboard:**
 
 • To share the dashboard with stakeholders, export it as a PDF or print it directly from Excel.
+
 • Use the “File” menu to choose “Save As” and select PDF format, ensuring all visible sheets and charts are included in the export.
 
 
