@@ -216,7 +216,7 @@ With its flexible design and powerful analytical capabilities, the dashboard is 
 
 ![List of Dashboards from 7 to 9 and Compiled Data Sheet](https://github.com/user-attachments/assets/a34fa3b2-934f-49b2-bb2f-3a6f7dfd8426)
 
-![List of Dashboards from 9 to Not Possible to Plot and Compiled Data Sheet](https://github.com/user-attachments/assets/548166f5-f4f3-41b1-b8fb-cc3dbde1dbfc)
+![List of Dashboards from 9 to Not Possible to Plot and Compiled Data Sheet](https://github.com/user-attachments/assets/618cd8ee-2af5-497d-ac38-0934b543d12d)
 
 ![Dashboard 1 for S10-Project](https://github.com/user-attachments/assets/2908fdb7-e0dc-41d6-a945-71d4e78c9dfa)
 
